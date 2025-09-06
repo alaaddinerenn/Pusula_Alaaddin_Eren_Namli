@@ -137,7 +137,6 @@ st.markdown(
 )
 
 # Load the dataset directly using pandas
-# Replace 'your_file_path.csv' with the actual file path
 df = pd.read_csv("data/expanded.csv", index_col=0) # The first column is an index
 
 # Questions Section
