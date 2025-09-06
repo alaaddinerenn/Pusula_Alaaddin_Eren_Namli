@@ -62,7 +62,6 @@ st.subheader("Cleaned Data Preview:")
 st.write(clean_df)
 
 st.subheader('Step 3: Converting Turkish Characters to English Characters')
-display_data_info(clean_df)
 st.markdown(
     """
     <div style="text-align: justify;">
