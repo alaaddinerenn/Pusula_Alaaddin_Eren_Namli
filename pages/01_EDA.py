@@ -271,4 +271,4 @@ if uploaded_file is not None:
 
     
 else:
-    st.info("Please upload a CSV file.")
+    st.info("Please upload a file.")

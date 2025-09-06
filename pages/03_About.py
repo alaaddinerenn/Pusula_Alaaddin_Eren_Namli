@@ -35,7 +35,7 @@ st.markdown(
     ## Contact
     For feedback or suggestions about this project, please get in touch:
     - **Developer:** Alaaddin Eren Namlı
-    - **Email:** alaaddin.namli@example.com
+    - **Email:** nealaadin@gmail.com
 
     """
 )

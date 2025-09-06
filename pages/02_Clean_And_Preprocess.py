@@ -1,4 +1,3 @@
-from email.policy import default
 import streamlit as st
 from preanalysis import upload_and_preview_file, display_data_info, show_basic_statistics, show_missing_data
 from preprocessing import handle_missing_and_duplicates, compare, parse_and_clean_columns, encode_categorical_columns
