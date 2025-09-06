@@ -26,14 +26,16 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-
-
-
+# Section: Preprocessing Steps
 st.header('Preprocessing Steps')
 st.subheader('Step 1: Data Upload and Initial Inspection')
+
+# Load the dataset and display initial preview
 df = pd.read_excel("data/Talent_Academy_Case_DT_2025.xlsx")
 st.write("Initial Data Preview:")
 st.dataframe(df)
+
+# Display basic statistics and data information
 show_basic_statistics(df)
 display_data_info(df)
 st.markdown(
@@ -134,7 +136,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
 # Load the dataset directly using pandas
 # Replace 'your_file_path.csv' with the actual file path
 df = pd.read_csv("data/expanded.csv", index_col=0) # The first column is an index
@@ -145,10 +146,11 @@ st.markdown("<h2 style='text-align: center;'>📌 Data Analysis with Questions</
 
 # Question 1: What is the most common diagnosis?
 st.markdown("### 1. What is the most common diagnosis?")
+# Update sns.barplot to avoid FutureWarning
 if df is not None and 'Tanilar' in df.columns:
     diagnosis_counts = df['Tanilar'].value_counts().head(10)
     fig, ax = plt.subplots(figsize=(8, 6))
-    sns.barplot(x=diagnosis_counts.values, y=diagnosis_counts.index, ax=ax, palette="viridis")
+    sns.barplot(x=diagnosis_counts.values, y=diagnosis_counts.index, ax=ax, palette="viridis", hue=diagnosis_counts.index, legend=False)
     ax.set_title("Top 10 Most Common Diagnoses")
     ax.set_xlabel("Count")
     ax.set_ylabel("Diagnosis")
@@ -248,7 +250,6 @@ if 'Cinsiyet' in df.columns and 'Alerji' in df.columns:
         st.markdown("**Female Allergies**")
         st.dataframe(female_allergy_summary)
 
-    
     st.write("The table above shows the total count and percentage of each allergy by gender, sorted by the highest counts.")
     st.write("According to the chart, we can observe that women tend to have pollen, novalgin, gripin and sucuk allergies, men ,on the other hand, tend to have dust(toz) allergy.")
 

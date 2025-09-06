@@ -111,25 +111,25 @@ def handle_missing_and_duplicates(df):
 
 def compare(df_before: pd.DataFrame, df_after: pd.DataFrame):
     """
-    Öncesi ve sonrası dataframe'leri sayısal ve kategorik açıdan karşılaştırır.
+    Compares before and after dataframes numerically and categorically.
     """
     st.subheader("🔍 Comparison Before and After Data Cleaning")
 
-    st.subheader("Temizlenmiş Veri Önizlemesi")
+    st.subheader("Cleaned Data Preview")
     st.write(df_after)
 
-    st.subheader("Temizlenmiş Veri Bilgileri")
-    st.info(f"Satır sayısı: {df_after.shape[0]} Sütun sayısı: {df_after.shape[1]}")
+    st.subheader("Cleaned Data Information")
+    st.info(f"Number of rows: {df_after.shape[0]} Number of columns: {df_after.shape[1]}")
 
     duplicate_count = df_after.duplicated().sum()
     if duplicate_count > 0:
-        st.warning(f"{duplicate_count} adet duplicate satır bulundu.")
+        st.warning(f"{duplicate_count} duplicate rows found.")
     else:
-        st.info("Duplicate satır bulunmamakta.")
+        st.info("No duplicate rows found.")
 
     column_info = pd.DataFrame({
-        "Sütun İsmi": df_after.columns,
-        "Veri Tipi": df_after.dtypes.astype(str)
+        "Column Name": df_after.columns,
+        "Data Type": df_after.dtypes.astype(str)
     })
     st.write(column_info)
     show_basic_statistics(df_after)
@@ -141,7 +141,7 @@ def compare(df_before: pd.DataFrame, df_after: pd.DataFrame):
 
     tab_num, tab_cat = st.tabs(["📊 Numerical Data", "📋 Categorical Data"])
 
-    # Target kolonları analiz dışında bırak
+    # Exclude target columns from analysis
     target_cols = [c for c in df_before.columns if c in ['label', 'target'] or c.startswith('target')]
     dfb = df_before.drop(columns=target_cols, errors='ignore')
     dfa = df_after.drop(columns=target_cols, errors='ignore')
@@ -224,7 +224,7 @@ def compare(df_before: pd.DataFrame, df_after: pd.DataFrame):
             unique_after = dfa[col].nunique(dropna=False)
             st.markdown(f"**Unique Values:** Before: {unique_before} | After: {unique_after}")
 
-            # En sık görülen kategorilerin yüzdesi
+            # Most frequent categories percentage
             freq_before_pct = dfb[col].fillna("NaN").value_counts(normalize=True).head(5) * 100
             freq_after_pct = dfa[col].fillna("NaN").value_counts(normalize=True).head(5) * 100
 
@@ -233,7 +233,7 @@ def compare(df_before: pd.DataFrame, df_after: pd.DataFrame):
             freq_before_pct = freq_before_pct.reindex(all_categories).fillna(0)
             freq_after_pct = freq_after_pct.reindex(all_categories).fillna(0)
 
-            # Tam dataset üzerinden yüzdeler
+            # Percentages over the full dataset
             full_before_pct = dfb[col].fillna("NaN").value_counts(normalize=True) * 100
             for cat in all_categories:
                 if freq_before_pct[cat] == 0 and freq_after_pct[cat] > 0:
@@ -249,7 +249,7 @@ def compare(df_before: pd.DataFrame, df_after: pd.DataFrame):
             st.markdown("**Most Frequent Categories (Percentage %)**")
             st.dataframe(freq_pct_df)
 
-            # Kategorik frekans karşılaştırması
+            # Frequency distribution comparison
             top_n = 10
             before_top = dfb[col].fillna("NaN").value_counts().head(top_n).index
             after_top = dfa[col].fillna("NaN").value_counts().head(top_n).index
@@ -299,7 +299,7 @@ def compare(df_before: pd.DataFrame, df_after: pd.DataFrame):
 
             st.pyplot(fig)
 
-            # Mode karşılaştırma
+            # Mode comparison
             mode_before = dfb[col].mode().iloc[0] if not dfb[col].mode().empty else "None"
             mode_after = dfa[col].mode().iloc[0] if not dfa[col].mode().empty else "None"
             st.markdown(f"**Most Frequent Value (Mode):** Before: {mode_before} | After: {mode_after}")
@@ -315,35 +315,35 @@ def compare(df_before: pd.DataFrame, df_after: pd.DataFrame):
 
 def parse_and_clean_columns(df, case="snake_case"):
     """
-    Kullanıcının seçtiği kolonlarda sayısal değerleri ayıklar ve kolon isimlerini birim ile birlikte günceller.
+    Extracts numerical values from selected columns and updates column names with units.
 
     Args:
-        df (pd.DataFrame): İşlenecek veri çerçevesi.
-        case (str): Kolon isimlerinin formatı. "snake_case", "camelCase" veya "PascalCase" olabilir.
+        df (pd.DataFrame): The dataframe to process.
+        case (str): The format of column names. Can be "snake_case", "camelCase", or "PascalCase".
 
-    Örnek:
-    'tedavi süresi' sütunu -> 'tedavi_suresi_dk' (snake_case)
-    'tedavi süresi' sütunu -> 'tedaviSuresiDk' (camelCase)
-    'tedavi süresi' sütunu -> 'TedaviSuresiDk' (PascalCase)
-    Hücrelerdeki '10 dakika' -> 10
+    Example:
+    'treatment duration' column -> 'treatment_duration_min' (snake_case)
+    'treatment duration' column -> 'treatmentDurationMin' (camelCase)
+    'treatment duration' column -> 'TreatmentDurationMin' (PascalCase)
+    Cell values like '10 minutes' -> 10
     """
     df = df.copy()
 
-    st.subheader("Dönüştürmek istediğiniz kolonları seçin")
-    st.info("Seçtiğiniz kolonlarda sayısal değerleri ayıklayabilir ve kolon isimlerini birim ile birlikte güncelleyebilirsiniz.")    
+    st.subheader("Select columns to transform")
+    st.info("You can extract numerical values and update column names with units in the selected columns.")
 
-    selected_cols = st.multiselect("Kolon seçin", df.columns.tolist())
+    selected_cols = st.multiselect("Select columns", df.columns.tolist())
 
     if selected_cols:
-        if st.button("Kolonları Dönüştür") or st.session_state.get("parse_and_cleaned", False):
+        if st.button("Transform Columns") or st.session_state.get("parse_and_cleaned", False):
             new_cols = {}
             for col in selected_cols:
-                # Hücrelerden sayı ve birimi ayıkla
+                # Extract numbers and units from cells
                 numbers = df[col].astype(str).str.extract(r"(\d+)").astype(float)
                 units = df[col].astype(str).str.extract(r"\d+\s*(\D+)").fillna("").astype(str)
                 unit_name = units.iloc[0, 0].strip().lower() if not units.empty else ""
 
-                # Yeni kolon adı oluştur
+                # Create new column name
                 if unit_name:
                     if case == "snake_case":
                         new_col_name = f"{col}_{unit_name}"
@@ -354,23 +354,23 @@ def parse_and_clean_columns(df, case="snake_case"):
                 else:
                     new_col_name = col
 
-                # Yeni kolonu ekle
+                # Add new column
                 df[new_col_name] = numbers
                 new_cols[col] = new_col_name
 
-            # Eski kolonları sil
+            # Drop old columns
             df = df.drop(columns=new_cols.keys())
-            st.success(f"{len(new_cols)} kolon dönüştürüldü: {list(new_cols.values())}")
+            st.success(f"{len(new_cols)} columns transformed: {list(new_cols.values())}")
             st.session_state["parse_and_cleaned"] = True
-            st.subheader("Güncellenmiş Veri Önizlemesi")
+            st.subheader("Updated Data Preview")
             st.write(df)
             column_info = pd.DataFrame({
-                "Sütun İsmi": df.columns,
-                "Veri Tipi": df.dtypes.astype(str)
+                "Column Name": df.columns,
+                "Data Type": df.dtypes.astype(str)
             })
             st.write(column_info)
     else:
-        st.info("Henüz kolon seçilmedi. Dönüştürme uygulanmadı.")
+        st.info("No columns selected. Transformation not applied.")
 
     return df
 
