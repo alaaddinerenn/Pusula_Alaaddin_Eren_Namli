@@ -9,14 +9,15 @@ This project is designed to provide users with a platform for analyzing datasets
 1. **EDA (Exploratory Data Analysis):** Allows users to explore their datasets, visualize data distributions, and identify patterns.
 2. **Clean & Preprocess:** Enables users to clean their datasets by handling missing values, encoding categorical variables, and scaling numerical features.
 
-## Note
-The document for the case project corresponds to the **Document** page in this project.
 
 The project supports CSV and Excel file formats, making it versatile for various datasets. Users can perform tasks such as:
 - Handling missing data
 - Encoding categorical variables (Label Encoding, One-Hot Encoding)
 - Scaling numerical features (Standardization, Normalization)
 - Visualizing data insights
+
+## Note
+The document for the case project corresponds to the **Document** page in this project.
 
 ## Features
 - **Data Upload:** Upload datasets in CSV or Excel format.
