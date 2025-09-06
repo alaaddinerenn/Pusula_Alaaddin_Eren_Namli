@@ -16,12 +16,30 @@ def file_loader(uploaded_file):
 
 # Replace Turkish characters with English characters
 def replace_turkish_characters(value):
+    """
+    Replaces Turkish characters in a string with their English equivalents.
+
+    Args:
+        value (str): The string to process.
+
+    Returns:
+        str: The processed string with Turkish characters replaced, or the original value if not a string.
+    """
     if isinstance(value, str):
         replacements = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosuCGIOSU")
         return value.translate(replacements)
     return value
 
 def format_dorsalji(value):
+    """
+    Formats strings starting with 'dorsalji-' by splitting on '+' and rejoining with commas.
+
+    Args:
+        value (str): The string to format.
+
+    Returns:
+        str: The formatted string, or the original value if no formatting is needed.
+    """
     if isinstance(value, str) and value.startswith('dorsalji-'):
         parts = value.split('+')
         if len(parts) == 1:
