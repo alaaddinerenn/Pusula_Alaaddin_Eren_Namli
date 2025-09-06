@@ -20,10 +20,15 @@ The project supports CSV and Excel file formats, making it versatile for various
 The document for the case project corresponds to the **Document** page in this project.
 
 ## Features
-- **Data Upload:** Upload datasets in CSV or Excel format.
-- **Data Cleaning:** Handle missing values, remove duplicates, and standardize text data.
-- **Data Transformation:** Convert columns to appropriate data types and encode categorical variables.
-- **Visualization:** Generate charts and graphs to understand data distributions and relationships.
+- **Data Upload:** Upload CSV or Excel files for analysis.
+- **General Information:** Analyze dataset size, column types, and missing values.
+- **Numerical and Categorical Analysis:** Perform detailed analysis and visualization for numerical and categorical variables.
+- **Correlation Analysis:** Examine relationships between numerical variables using a correlation matrix.
+- **Data Cleaning:** Detect and clean erroneous or outlier values in the dataset.
+- **Handling Missing Values:** Fill in missing values using various methods (mean, median, mode, etc.).
+- **Encoding:** Convert categorical variables into numerical values (Label Encoding, One-Hot Encoding).
+- **Standardization and Normalization:** Scale and normalize numerical variables.
+- **Duplicate Detection:** Identify and clean duplicate rows in the dataset.
 
 ## Dependencies
 The project requires the following Python libraries:
