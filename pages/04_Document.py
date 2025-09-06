@@ -99,6 +99,7 @@ st.markdown(
 converted_df = pd.read_csv("data/converted.csv", index_col=0)
 st.subheader("Converted Data Preview:")
 st.write(converted_df)
+display_data_info(converted_df)
 
 st.subheader('Step 6: Encoding Categorical Features')
 st.markdown(
