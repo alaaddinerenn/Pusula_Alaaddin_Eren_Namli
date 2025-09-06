@@ -1,0 +1,221 @@
+﻿,HastaNo,Yas,Cinsiyet,KanGrubu,Uyruk,KronikHastalik,Bolum,Alerji,Tanilar,TedaviAdi,UygulamaYerleri,TedaviSuresiSeans,UygulamaSuresiDakika
+0,145134,60,Kadin,0 Rh+,Turkiye,Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,ayak bilegi ve ayagin yuzeysel yaralanmasi,ayak bilegi,Ayak Bilegi,5,20
+1,145135,28,Erkek,0 Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,omuzun darbe sendromu,dorsalji-trapez,Boyun,15,20
+2,145137,65,Kadin,0 Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,dorsalji,dorsalji-skapular,Sol El Bilek Bolgesi,15,15
+3,145138,61,Kadin,A Rh+,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,el rehabilitasyonu,Diz,18,20
+4,145139,52,Kadin,A Rh+,Turkiye, Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, servikotorasik bolge,gonartroz,Sol Omuz Bolgesi,15,5
+5,145140,48,Kadin,A Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,artroz,meniskopati,Boyun,15,20
+6,145143,59,Erkek,B Rh-,Turkiye, Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,sol omuz impingement,Sag Ayak Bilegi Bolgesi,15,5
+7,145144,60,Kadin,A Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, el,dorsalji-trapez,Boyun,20,20
+8,145146,77,Kadin,0 Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,eklem agrisi,asil rupturu-1,Diz,15,20
+9,145147,66,Erkek,B Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,bisipital tendinit,dorsalji,Bel,15,20
+10,145149,66,Kadin,AB Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,servikal myelomalazi,Sirt,15,20
+11,145150,66,Erkek,A Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,gonartroz,Boyun,15,20
+12,145151,85,Kadin,A Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, servikotorasik bolge,meniskopati,Sol Kalca Bolgesi,15,5
+13,145152,54,Erkek,0 Rh+,Turkiye, Duchenne Muskuler Distrofisi,Ortopedi Ve Travmatoloji,polen,asil tendon yaralanmasi,dorsalji 1,Tum Vucut Bolgesi,6,10
+14,145153,74,Erkek,A Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yer fistigi,intervertebral disk bozukluklari,dorsalji 1,Bel,15,20
+15,145154,53,Erkek,0 Rh+,Turkiye,Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,dorsalji-trapez,Diz,15,5
+16,145155,47,Kadin,0 Rh+,Turkiye, Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,gonartroz [diz ekleminin artrozu],koksartroz1,Bel,15,20
+17,145158,42,Erkek,A Rh+,Turkiye, Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,spinal stenoz,sag subtrokanterik kirik,Bel,15,20
+18,145159,53,Kadin,0 Rh+,Turkiye,Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yer fistigi,dorsalji,dorsalji 1,Bel,15,20
+19,145161,80,Erkek,B Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,meniskus tamiri,Boyun,10,20
+20,145162,69,Kadin,A Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, lumbosakral bolge,iv disk bozuklugu-bel,Sol Diz Bolgesi,15,20
+21,145163,40,Kadin,0 Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,radikulopati,dorsalji,Sol Dirsek Bolgesi,15,20
+22,145164,53,Erkek,B Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,dorsalji,dorsalji 1,Bel,15,20
+23,145165,71,Kadin,0 Rh+,Turkiye,Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, tanimlanmamis,dorsalji-trapez,Sag Omuz Bolgesi,15,5
+24,145166,48,Kadin,A Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yer fistigi,dorsalji,sol diz post op-gec donme,Bel,10,20
+25,145167,69,Kadin,A Rh-,Turkiye,Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,humerus alt us-dirsek kirigi,Sol Diz Bolgesi,15,20
+26,145169,48,Erkek,0 Rh+,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, servikotorasik bolge,dorsalji-bel,Kalca,15,20
+27,145170,52,Kadin,0 Rh+,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,koksartroz [kalca artrozu],sag,Boyun,15,20
+28,145172,74,Kadin,A Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,femur saft kirigi, sol humerus kirigi,Sol Diz Bolgesi,16,20
+29,145173,62,Kadin,0 Rh+,Turkiye, Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,intervertebral disk bozukluklari,bel ftr,Sol Omuz Bolgesi,15,5
+30,145174,33,Kadin,B Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, tanimlanmamis,sol diz eklem implanti,Boyun,15,20
+31,145176,59,Kadin,0 Rh+,Turkiye,Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,meniskus yirtigi,kalca agrisi ,Bel,15,20
+32,145177,38,Kadin,B Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, simdiki,fas,Sol El Bilek Bolgesi,21,20
+33,145178,43,Erkek,A Rh+,Turkiye, Myastenia gravis,Ortopedi Ve Travmatoloji,toz,dorsalji,dorsalji-trapez,Tum Vucut Bolgesi,2,10
+34,145179,53,Kadin,0 Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, diger,sol diz implanti reh,Kalca,15,20
+35,145180,57,Kadin,A Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, lumbosakral bolge,sol omuz impingement,Bel,15,20
+36,145183,61,Kadin,0 Rh-,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,dorsalji-trapez,Kalca,10,45
+37,145184,51,Kadin,A Rh+,Turkiye,Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,dorsalji-bel,Diz,15,20
+38,145185,44,Erkek,0 Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, lumbosakral bolge,parmak protezi,Diz,15,5
+39,145186,46,Erkek,A Rh+,Turkiye,Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",volteren,dorsalji,menisektomi,Kalca,10,45
+40,145187,59,Erkek,A Rh+,Turkiye, Hipertansiyon,Ortopedi Ve Travmatoloji,toz, diger,erken rehabilitasyon,Tum Vucut Bolgesi,2,10
+41,145189,69,Kadin,0 Rh+,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, birden fazla yer,koksartroz,Diz,15,20
+42,145190,20,Kadin,0 Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, vertebrada,iv disk bozuklugu-bel,Sol El Bilek Bolgesi,15,20
+43,145192,71,Erkek,A Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",arveles,dorsalji,ptr,Sol Omuz Bolgesi,15,20
+44,145194,50,Kadin,B Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",coraspin, diger,gonartroz,Bel,15,20
+45,145195,47,Erkek,B Rh+,Turkiye,Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, servikotorasik bolge,meniskopati,Bel,15,20
+46,145196,39,Kadin,B Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yer fistigi,ortopedik eklem implanti,meniskus tamiri,Omuz,15,20
+47,145197,43,Kadin,0 Rh+,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",arveles,humerus alt uc kirigi,pelvik taban rehabilitasyonu,Sirt,15,20
+48,145201,53,Kadin,A Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",coraspin,dorsalji,kalca implant,Sol El Bilek Bolgesi,15,20
+49,145202,49,Erkek,B Rh+,Turkiye, Astim,Ortopedi Ve Travmatoloji,voltaren, diger,erken rehabilitasyon,Sag Omuz Bolgesi,1,15
+50,145203,53,Kadin,0 Rh-,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, lumbosakral bolge,gonartroz,Sirt,1,15
+51,145204,51,Kadin,A Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",gripin,humerus ust uc kirigi,meniskopati,Sol Ayak Bilegi Bolgesi,18,20
+52,145206,69,Kadin,A Rh+,Turkiye,Diyabet,Ortopedi Ve Travmatoloji,toz,intervertebral disk bozukluklari,eklem agrisi,Tum Vucut Bolgesi,4,10
+53,145207,46,Erkek,B Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,sol omuz impingement,Bel,15,20
+54,145208,48,Erkek,0 Rh-,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,vitamin d eksikligi,iv disk bozuklugu-bel,Bel,15,20
+55,145209,79,Erkek,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin, tanimlanmamis,dorsalji-bel,Sag Ayak Bilegi Bolgesi,15,20
+56,145210,48,Kadin,A Rh-,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",arveles,ortopedik eklem implanti,myodascial agri,Sag El Bilek Bolgesi,15,20
+57,145211,75,Erkek,B Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",coraspin,eklem agrisi,dorsalji,Sag Omuz Bolgesi,15,20
+58,145212,56,Kadin,0 Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,intervertebral disk bozukluklari,dorsal,Sol Ayak Bilegi Bolgesi,20,20
+59,145213,34,Kadin,AB Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,algonorodistrofi sol el,Boyun,15,20
+60,145214,15,Erkek,0 Rh+,Turkiye, Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,dorsalji,impingement op izometrik,Kalca,10,45
+61,145215,63,Erkek,A Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,spinal manupilasyon,Boyun,15,20
+62,145216,24,Kadin,0 Rh-,Turkiye,Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, servikal bolge,asil rupturu op,Sag Diz Bolgesi,15,20
+63,145217,74,Kadin,B Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yer fistigi,ortopedik eklem implanti,eklem implanti-bilateral,Bel,15,20
+64,145218,51,Kadin,A Rh+,Turkiye,Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,omuzun darbe sendromu,iv disk bozuklugu-bel,Sol Ayak Bilegi Bolgesi,15,20
+65,145219,73,Kadin,0 Rh+,Turkiye, Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,dorsalji,dorsalji-bel,Bel,15,20
+66,145220,71,Erkek,A Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, diger,dusuk ayak,Bel,15,20
+67,145221,54,Kadin,0 Rh+,Turkiye, Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",arveles, servikal bolge,tetik parmak op lusu,Sol Omuz Bolgesi,15,5
+68,145222,41,Kadin,0 Rh+,Turkiye,Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",coraspin,dorsalji,sag omuz impingement,Boyun,15,20
+69,145224,48,Erkek,A Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, di̇ger,algonorodistrofi sol ayak,Sol Kalca Bolgesi,15,20
+70,145225,47,Kadin,AB Rh+,Turkiye,Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, servikotorasik bolge,dorsalji-boyun sirt,Diz,15,20
+71,145226,44,Erkek,A Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yer fistigi,dorsalji,ptr,Bel,15,20
+72,145227,44,Kadin,A Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,radikulopati,Boyun,16,20
+73,145229,70,Kadin,A Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,parmak (lar)in deformitesi,sag diz eklem implanti reha,El Bilek,15,20
+74,145231,43,Kadin,A Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,meniskuslerin yerlesim bozuklugu,dorsalji 1,Bel,21,20
+75,145232,33,Kadin,B Rh+,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, eski yirtik veya yaralanmaya bagli,ayak bilegi post op,Boyun,15,20
+76,145233,51,Kadin,A Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,kas zorlanmasi (muscular strain),dorsalji 1,Sag Omuz Bolgesi,15,5
+77,145234,14,Kadin,B Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,eklem agrisi,iv disk bozuklugu-bel,Sirt,15,20
+78,145235,53,Kadin,A Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,intervertebral disk bozukluklari,sol omuz impingement,Sirt,15,20
+79,145237,73,Kadin,0 Rh+,Turkiye,Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin, tanimlanmamis,boyun-trapezz,Boyun,15,20
+80,145238,46,Kadin,0 Rh+,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,gonartroz [diz ekleminin artrozu],sol kalca implanti gec rehabilitasyonu,Bel,15,20
+81,145239,72,Erkek,A Rh+,Turkiye, Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,uriner inkontinans,gonartroz,Bel,7,20
+82,145240,43,Erkek,A Rh-,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,dorsalji,Bel,15,20
+83,145241,65,Kadin,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,meniskus yirtigi,koksiks,Diz,15,20
+84,145242,43,Kadin,AB Rh+,Turkiye,Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, simdiki,dorsalji-trapez,Sag Ayak Bilegi Bolgesi,15,20
+85,145245,50,Kadin,A Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,meniskus yirtigi,iv disk bozuklugu-bel,Diz,15,20
+86,145246,44,Kadin,B Rh-,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, simdiki,bel,Sol Omuz Bolgesi,15,20
+87,145247,69,Kadin,0 Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,mesanenin noromuskuler disfonksiyonu,boyun-trapezz,"Bel,Tum Vucut Bolgesi",15,20
+88,145248,16,Kadin,AB Rh+,Turkiye,Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,sag omuz adezif kapsulut,Boyun,15,20
+89,145249,44,Erkek,B Rh+,Turkiye,Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,sekonder koksartroz,tendinit,Boyun,15,20
+90,145250,60,Erkek,A Rh-,Turkiye, Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",arveles, bilateral,skolyoz,Boyun,15,20
+91,145251,19,Erkek,A Rh+,Turkiye,Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",coraspin, diger,dorsalji,Sirt,15,30
+92,145252,15,Kadin,AB Rh-,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,gonartroz [diz ekleminin artrozu],dorsal,Tum Vucut Bolgesi,15,10
+93,145254,32,Erkek,A Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,eklem agrisi,boyun-dusuk kol,Sag Omuz Bolgesi,15,20
+94,145256,13,Kadin,0 Rh+,Turkiye, Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,rotator kuf sendromu,iv disk bozuklugu-bel,Tum Vucut Bolgesi,15,10
+95,145257,60,Erkek,A Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,dorsalji,dorsalji-bel,Sag Omuz Bolgesi,15,5
+96,145259,35,Erkek,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, diger,iv disk bozuklugu-bel,Sag Omuz Bolgesi,15,20
+97,145261,49,Kadin,AB Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, lumbosakral bolge,gonartroz,Bel,15,20
+98,145262,42,Erkek,0 Rh+,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,meniskopati,Bel,15,20
+99,145264,42,Kadin,A Rh+,Turkiye, Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, diger,5. metatars fissuru,Bel,15,20
+100,145265,68,Kadin,0 Rh+,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, servikal bolge,bag lezyonu,Boyun,15,20
+101,145266,43,Erkek,0 Rh+,Turkiye,Duchenne Muskuler Distrofisi,Ortopedi Ve Travmatoloji,gripin,ayak bilegi ve ayak duzeyinde kas ve tendon yaralanmasi,gonartroz,Sol Omuz Bolgesi,1,10
+102,145268,41,Kadin,A Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,meniskopati ,Boyun,19,20
+103,145269,59,Kadin,A Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger, kalkaneal spur,Boyun,15,20
+104,145270,62,Kadin,0 Rh+,Turkiye, Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, lumbosakral bolge,sol omuz impingement,Diz,15,20
+105,145273,75,Erkek,0 Rh+,Turkiye,Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,kondrokostal kavsak sendromu [tietze],iv disk bozuklugu-bel-1,Sag Diz Bolgesi,15,20
+106,145274,40,Kadin,0 Rh+,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,dorsalji-servikal,Bel,15,20
+107,145276,40,Erkek,A Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,dorsalji-trapez,Bel,15,20
+108,145277,63,Kadin,B Rh-,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, torasik bolge,dorsalji-trapez,Bel,15,20
+109,145278,55,Erkek,B Rh+,Turkiye,Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,el bilegi ve el duzeyinde bas parmak ekstansor kas ve tendonunun yaralanmasi,skolyoz,Bel,15,20
+110,145279,25,Kadin,0 Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",gripin,lateral epikondilit,skolyoz,Sag Ayak Bilegi Bolgesi,15,5
+111,145280,70,Kadin,A Rh+,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren,omuzun darbe sendromu,sag omuz impingement,Bel,15,20
+112,145282,55,Erkek,0 Rh+,Turkiye,Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,biseps diger kisimlarinin kas ve tendon yaralanmasi,dorsalji,Sol Omuz Bolgesi,15,5
+113,145284,47,Kadin,AB Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,omuz rotator cuff tendon yaralanmasi,impingement sag,Sag Omuz Bolgesi,15,5
+114,145285,38,Erkek,B Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,akromiyoklavikuler eklem burkulma ve gerilmesi,sag omuz impingement,Boyun,29,10
+115,145286,35,Kadin,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,dorsalji-bel,Sag Omuz Bolgesi,15,20
+116,145287,47,Kadin,A Rh+,Turkiye,Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, diger,dorsalji-bel,Boyun,15,20
+117,145288,51,Erkek,A Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, servikotorasik bolge,dorsalji 1,Sol El Bilek Bolgesi,15,20
+118,145289,50,Kadin,0 Rh+,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,kondrokostal kavsak sendromu [tietze],boyun-trapezz,Sol Omuz Bolgesi,15,20
+119,145290,42,Kadin,0 Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,asil tendon yaralanmasi,omuz post op izometrik,Boyun,15,20
+120,145291,52,Erkek,0 Rh+,Turkiye,Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk,gonartroz [diz ekleminin artrozu],dorsalji-trapez,Sag Ayak Bilegi Bolgesi,20,20
+121,145293,64,Erkek,A Rh+,Turkiye, Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,intervertebral disk bozukluklari,dorsalji-trapez,Sag Omuz Bolgesi,15,20
+122,145294,23,Kadin,0 Rh+,Turkiye,Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, tanimlanmamis,gonartroz,Bel,15,20
+123,145295,45,Kadin,0 Rh+,Turkiye,Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,meniskopati,Boyun,15,20
+124,145296,48,Kadin,A Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, diger,bilateral diz eklem implanti,Sag Omuz Bolgesi,15,5
+125,145298,33,Kadin,A Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",gripin, lumbosakral bolge,iv disk bozuklugu-bel,Boyun,15,20
+126,145299,59,Erkek,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,radikulopati,dorsalji-bel,Bel,15,20
+127,145300,40,Kadin,0 Rh+,Turkiye,Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,tetik parmak,iv disk bozuklugu-bel,Boyun,15,20
+128,145301,19,Erkek,A Rh+,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,tendonun (kilif) diger kontrakturu,dorsalji-bel,Bel,15,20
+129,145302,62,Kadin,A Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,omuzun darbe sendromu,malleol kirigi-1,"Sirt,Bel",15,20
+130,145303,37,Kadin,A Rh+,Turkiye, Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,medial epikondilit,dorsalji-bel,Bel,15,20
+131,145305,47,Kadin,B Rh-,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk,algonorodistrofi,sol omuz impingement,Kalca,10,45
+132,145306,80,Erkek,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,ayak kirigi,impingement sag,Bel,15,20
+133,145307,55,Kadin,0 Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren, ayak bilegi haric,dorsalji-trapez,Bel,15,20
+134,145309,50,Erkek,A Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,dorsalji,sag omuz impingement,Sag Ayak Bilegi Bolgesi,14,5
+135,145310,47,Kadin,B Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin, diger,dorsalji-trapez,Boyun,15,20
+136,145312,42,Erkek,A Rh-,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",arveles,boyun agrisi,fleksor tendon yaralanmasi,Sol El Bilek Bolgesi,15,20
+137,145314,41,Kadin,A Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",coraspin,uriner sistemin diger bozukluklari,sol omuz impingement,Bel,15,20
+138,145315,49,Kadin,A Rh+,Turkiye,Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,mesanenin diger bozukluklari,dorsalji-trapez,Boyun,17,20
+139,145317,24,Kadin,0 Rh+,Turkiye,Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,radikulopati,ayak bilegi post op,Sol El Bilek Bolgesi,15,20
+140,145320,40,Erkek,0 Rh+,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,patellanin diger yerlesim bozukluklari,sag omuz impingement,Sag Omuz Bolgesi,15,20
+141,145322,20,Erkek,0 Rh+,Turkiye, Hipertansiyon,Ortopedi Ve Travmatoloji,yok,ekstremite agrisi,iv disk bozuklugu-bel,Tum Vucut Bolgesi,4,10
+142,145324,42,Erkek,A Rh+,Turkiye,Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, pelvik bolge ve kalca,dorsalji-trapez,Bel,15,20
+143,145325,11,Erkek,A Rh-,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,intervertebral disk bozukluklari,impingement sag,Sol Ayak Bilegi Bolgesi,15,20
+144,145326,38,Kadin,A Rh+,Turkiye, Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,iv disk boyun,Boyun,15,20
+145,145327,64,Kadin,B Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren,medial malleol kirigi,dorsalji-bel,Bel,18,20
+146,145335,48,Kadin,B Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,lateral malleol kirigi,boyun-sirt agrisi,Sol El Bilek Bolgesi,10,20
+147,145337,40,Erkek,A Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk,omuzun darbe sendromu,dorsalji 1,Sol Ayak Bilegi Bolgesi,15,20
+148,145342,44,Erkek,0 Rh+,Turkiye,Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,intervertebral disk bozukluklari,iv disk bozuklugu-bel,Sol Omuz Bolgesi,15,5
+149,145349,34,Kadin,A Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,iv disk bozuklugu-bel,Diz,15,30
+150,145351,55,Kadin,A Rh+,Turkiye, Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,dorsalji,ptr,Bel,15,20
+151,145353,30,Kadin,A Rh+,Turkiye, Hipertiroidizm,Ortopedi Ve Travmatoloji,gripin, tanimlanmamis,iv disk bozuklugu-bel,Sag Diz Bolgesi,2,10
+152,145355,40,Erkek,0 Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,ekstremite agrisi,spondilolistezis,Sirt,15,20
+153,145356,48,Kadin,A Rh+,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",volteren, pelvik bolge ve kalca,epikondilit-1,Sag Diz Bolgesi,15,5
+154,145365,44,Erkek,B Rh-,Turkiye,Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,omuzun darbe sendromu,boyun-trapezz,Sag Dirsek Bolgesi,20,20
+155,145369,44,Kadin,A Rh+,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,eklem agrisi,parmak kirigi,Boyun,15,20
+156,145374,38,Kadin,0 Rh+,Turkiye, Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,boyun agrisi,dorsalji 1,Boyun,15,20
+157,145377,37,Erkek,0 Rh+,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz,koksartroz [kalca artrozu],dorsalji-trapez,Sag Ayak Bilegi Bolgesi,15,20
+158,145378,56,Erkek,B Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,primer gonartroz,metkarp kirigi,Sag Omuz Bolgesi,17,20
+159,145386,42,Kadin,A Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, bilateral, kontraktur,Boyun,10,20
+160,145390,46,Kadin,0 Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren,dorsalji,sag omuz impingement,Boyun,15,20
+161,145392,49,Kadin,A Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin, tanimlanmamis,diz protezi sonrasi tam  yuk,Boyun,10,20
+162,145396,25,Kadin,0 Rh+,Turkiye, Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, sakral ve sakrokoksigeal bolge,iv disk bozuklugu-bel,Sag El Bilek Bolgesi,15,20
+163,145397,39,Erkek,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,fibromiyalji,asil kisaligi,Sag Ayak Bilegi Bolgesi,20,20
+164,145398,44,Erkek,A Rh+,Turkiye,Yok,Ortopedi Ve Travmatoloji,polen, birden fazla yer,dorsalji-trapez,Tum Vucut Bolgesi,2,10
+165,145404,35,Kadin,0 Rh+,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk,dusme,iv disk bozuklugu-bel,Boyun,15,20
+166,145406,43,Kadin,0 Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,el rehabilitasyonu,Diz,15,15
+167,145408,15,Kadin,0 Rh+,Turkiye, Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,intervertebral disk bozukluklari,ayak bilegi distorsiyonu,Diz,15,20
+168,145409,43,Erkek,B Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, dige­r,sol omuz impingemen post op,Bel,15,20
+169,145416,40,Kadin,B Rh-,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,dorsalji,quadriseps guclendirme,Bel,10,20
+170,145421,60,Kadin,0 Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,dorsalji 1,Kalca,10,45
+171,145424,50,Kadin,A Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, lumbosakral bolge,postop diz artroskopi-sag,Sol Omuz Bolgesi,10,5
+172,145425,55,Kadin,B Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,dorsalji,dorsalji,Sol El Bilek Bolgesi,10,20
+173,145427,43,Kadin,A Rh+,Turkiye,Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, diger,dorsal,Diz,15,20
+174,145430,60,Kadin,0 Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, servikotorasik bolge,kondromalezi patella,Diz,15,20
+175,145431,49,Erkek,0 Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,omuzun darbe sendromu,lateralizasyon,Sol Omuz Bolgesi,15,5
+176,145434,15,Kadin,B Rh-,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,omuzun adezif kapsuliti,dirsek eklem cikigi,Sol Diz Bolgesi,15,5
+177,145437,53,Kadin,A Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,juvenil ve adolesan idiopatik skolyoz,kontrakturu,Kalca,10,45
+178,145439,66,Kadin,A Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,boyun-trapezz,Sol Omuz Bolgesi,15,20
+179,145441,38,Kadin,B Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin, diger,dorsalji-trapez,Bel,15,20
+180,145444,34,Kadin,B Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, servikotorasik bolge,sag dusuk ayak,Kalca,10,45
+181,145445,76,Kadin,B Rh+,Turkiye,Yok,Ortopedi Ve Travmatoloji,sucuk,spondiloz,sag omuz protezi,Tum Vucut Bolgesi,4,10
+182,145446,56,Erkek,0 Rh+,Libya,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren, diger radikulopati ile, el bilegi kirigi,Sol Omuz Bolgesi,20,5
+183,145447,78,Erkek,0 Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,'dorsalji,dorsalji boyun 1,Yuz,15,20
+184,145448,38,Kadin,A Rh+,Turkiye,Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin, diger,boyun-trapezz,Sol Ayak Bilegi Bolgesi,15,20
+185,145449,42,Kadin,A Rh+,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, lumbosakral bolge,dorsalji boyun 1,Diz,11,20
+186,145452,40,Kadin,B Rh+,Turkiye,Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren,lateral epikondilit,1. parmak bag ve volar plak yaralanmasi,Bel,15,20
+187,145453,42,Kadin,0 Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin,intervertebral disk bozukluklari,asil rupturu op,Bel,17,20
+188,145458,32,Kadin,0 Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",novalgin, diger,artroskopi diz tam yukle mobilizasyon,Bel,15,20
+189,145460,35,Kadin,B Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,intervertebral disk bozukluklari,dorsalji-trapez,Sag Omuz Bolgesi,15,20
+190,145464,36,Kadin,B Rh+,Turkiye,Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, tanimlanmamis,capraz bag lezyonu,"Bel,Tum Vucut Bolgesi",15,20
+191,145465,37,Kadin,AB Rh+,Turkiye, Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",volteren,gonartroz [diz ekleminin artrozu],patella yerlesim boz,Boyun,15,20
+192,145466,31,Kadin,A Rh+,Turkiye, Fascioscapulohumeral Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",gripin,iliotibial band sendromu,dorsalji 1,Sol Ayak Bilegi Bolgesi,15,20
+193,145467,37,Erkek,AB Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,metatarsalji,bel ftr,Boyun,15,20
+194,145468,45,Kadin,0 Rh+,Turkiye,Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,ptr,Sirt,15,20
+195,145470,38,Erkek,0 Rh+,Azerbaycan, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, diger,aksiller web sendromu,"Sirt,Omuz",10,20
+196,145476,67,Erkek,A Rh+,Turkiye, Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren, birden fazla yer,kontraktur,Bel,15,20
+197,145479,34,Kadin,0 Rh+,Turkiye,Hipertiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, vertebrada,sol el artroplastisi,Sol Kalca Bolgesi,15,5
+198,145482,59,Kadin,B Rh+,Turkiye, Becker Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,gonartroz [diz ekleminin artrozu],gonartroz,Sol Omuz Bolgesi,16,5
+199,145485,36,Kadin,B Rh-,Turkiye, Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,kalkaneal spur,meniskopati,Sag El Bilek Bolgesi,15,20
+200,145487,38,Erkek,0 Rh+,Turkiye,Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yer fistigi,omuzun darbe sendromu,gonartroz,Bel,15,20
+201,145492,30,Kadin,A Rh+,Turkiye, Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,spinal stenoz,meniskopati,"Sag Kalca Bolgesi,Sol Kalca Bolgesi",15,5
+202,145494,37,Erkek,0 Rh+,Turkiye, Aritmi,Ortopedi Ve Travmatoloji,toz,dorsalji,impingement sag,Tum Vucut Bolgesi,4,10
+203,145495,56,Kadin,A Rh+,Turkiye, Myastenia gravis,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, tanimlanmamis,patella kirigi,Sag Ayak Bilegi Bolgesi,15,5
+204,145496,6,Erkek,A Rh+,Turkiye,Limb-Girdle Muskuler Distrofi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,ptr,Kalca,10,45
+205,145497,56,Kadin,0 Rh+,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok, diger,sol omuz impingement,Sag Omuz Bolgesi,15,20
+206,145501,53,Kadin,0 Rh+,Turkiye,Hipertansiyon,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",gripin, servikal bolge,dorsalji 1,Sol Omuz Bolgesi,15,5
+207,145505,35,Kadin,A Rh+,Turkiye, Diyabet,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,ptr,Diz,15,20
+208,145507,41,Kadin,A Rh+,Turkiye, Hiportiroidizm,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",voltaren, diger,bilarteral implant,Sag Kalca Bolgesi,15,10
+209,145509,41,Erkek,0 Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, servikotorasik bolge,erken rehabilitasyon,Bel,15,20
+210,145514,26,Erkek,A Rh+,Turkiye,Aritmi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,dorsalji,sol omuz impingement,Sag Diz Bolgesi,15,20
+211,145519,69,Kadin,0 Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen, diger,tme bozuklugu,Sirt,15,20
+212,145520,37,Erkek,A Rh+,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk, servikal bolge,algonorodistrofi sol ayak,Sag Omuz Bolgesi,15,15
+213,145521,37,Kadin,B Rh-,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,skolyoz,meniskopati bursit,Boyun,15,20
+214,145522,58,Erkek,B Rh+,Turkiye, Kalp yetmezligi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,eklemin kontrakturu,iv disk bozuklugu-bel,Diz,10,5
+215,145526,45,Kadin,AB Rh+,Turkiye,Yok,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",polen,dorsalji,iv disk bozuklugu-bel,Bel,15,20
+216,145527,48,Erkek,AB Rh-,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",toz, tanimlanmamis,dorsalji 1,Boyun,15,20
+217,145528,29,Kadin,0 Rh+,Turkiye,Duchenne Muskuler Distrofisi,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",sucuk,postural kifoz,sag omuz impingement,Bel,15,20
+218,145533,31,Erkek,0 Rh+,Turkiye,Polimiyozit,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,kalsifik tendinit,iv disk bozuklugu-bel-1,Diz,15,5
+219,145537,33,Kadin,A Rh+,Turkiye, Astim,"Fiziksel Tip Ve Rehabilitasyon,Solunum Merkezi",yok,omuzun darbe sendromu,dorsalji boyun 1,Sol Ayak Bilegi Bolgesi,15,20
