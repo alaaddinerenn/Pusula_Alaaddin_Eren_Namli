@@ -14,7 +14,6 @@ def file_loader(uploaded_file):
     else:
         raise ValueError("Unsupported file type. Please upload a CSV or Excel file.")
 
-# Replace Turkish characters with English characters
 def replace_turkish_characters(value):
     """
     Replaces Turkish characters in a string with their English equivalents.
